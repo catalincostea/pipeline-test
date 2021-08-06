@@ -1,4 +1,4 @@
 - hosts:
-    - dev000
+    - dev
   tasks:
     - action: ping
