@@ -1,4 +1,4 @@
 - hosts:
-    - 172.16.0.196
+    - dev
   tasks:
     - action: ping
